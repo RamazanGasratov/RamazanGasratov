@@ -25,7 +25,7 @@ struct IOSDeveloper {
     
     var technologyStack: [String: [String]] = [
         "Principles":        ["OOP", "SOLID"],
-        "Layout":            ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
+        "Layout":            ["UIKit", "SwiftUI", "AutoLayout", "SnapKit", "Storyboard"],
         "Dependencies":      ["CocoaPods", "SPM", "Carthage"],
         "Storage":           ["Core Data", "UserDefaults", "KeyChain", "Realm"],
         "Networking":        ["URLSession", "JSON Parse", "REST API"],
